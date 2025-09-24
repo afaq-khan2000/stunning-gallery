@@ -12,6 +12,10 @@ postcss.config.js
 # Demo and example files (keep only the essential demo)
 example/
 
+# GitHub Pages files
+.github/
+index.html
+
 # Git files
 .git/
 .gitignore

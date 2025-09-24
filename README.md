@@ -8,7 +8,7 @@ The most beautiful, feature-rich gallery component you've ever seen! Built with 
 
 **Try the interactive demo right now!**
 
-👉 **[View Live Demo](demo/index.html)** 👈
+👉 **[View Live Demo](https://afaq-khan2000.github.io/stunning-gallery/demo/)** 👈
 
 The demo showcases all the amazing features including:
 - Multiple layout options (Masonry, Grid, Carousel, Stack)
