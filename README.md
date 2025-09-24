@@ -4,6 +4,19 @@ The most beautiful, feature-rich gallery component you've ever seen! Built with 
 
 ![Gallery Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Stunning+Gallery)
 
+## 🎮 Live Demo
+
+**Try the interactive demo right now!**
+
+👉 **[View Live Demo](demo/index.html)** 👈
+
+The demo showcases all the amazing features including:
+- Multiple layout options (Masonry, Grid, Carousel, Stack)
+- Interactive theme switching (Light, Dark, Auto)
+- Various hover effects (Scale, Glow, Slide, Rotate)
+- Real-time search and filtering
+- Beautiful animations and transitions
+
 ## ✨ Features
 
 - 🎨 **Multiple Layouts**: Masonry, Grid, Carousel, and Stack layouts

@@ -1,0 +1,28 @@
+# Source files
+src/
+*.ts
+*.tsx
+!*.d.ts
+
+# Development files
+tsconfig.json
+tailwind.config.js
+postcss.config.js
+
+# Demo and example files (keep only the essential demo)
+example/
+
+# Git files
+.git/
+.gitignore
+
+# Documentation
+PROJECT_SUMMARY.md
+PUBLISHING_GUIDE.md
+
+# Development dependencies
+node_modules/
+package-lock.json
+
+# Build artifacts that aren't needed
+*.tsbuildinfo

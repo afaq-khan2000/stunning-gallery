@@ -6,7 +6,9 @@
   "types": "dist/index.d.ts",
   "files": [
     "dist",
-    "README.md"
+    "README.md",
+    "demo",
+    "example"
   ],
   "scripts": {
     "build": "tsc && npm run build:css",
@@ -44,7 +46,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/stunning-gallery.git"
+    "url": "https://github.com/afaq-khan2000/stunning-gallery.git"
   },
-  "homepage": "https://github.com/yourusername/stunning-gallery#readme"
+  "homepage": "https://github.com/afaq-khan2000/stunning-gallery#readme",
+  "demo": "demo/index.html",
+  "dependencies": {
+    "framer-motion": "^12.23.20",
+    "lucide-react": "^0.544.0",
+    "react-intersection-observer": "^9.16.0"
+  }
 }

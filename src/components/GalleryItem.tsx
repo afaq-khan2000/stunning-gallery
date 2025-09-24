@@ -72,7 +72,6 @@ const GalleryItemComponent: React.FC<GalleryItemProps> = ({
         delay: index * 0.1 
       }}
       whileHover={hoverProps.whileHover}
-      transition={hoverProps.transition}
       className="group relative overflow-hidden rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 cursor-pointer"
       onClick={() => onClick(item, index)}
     >

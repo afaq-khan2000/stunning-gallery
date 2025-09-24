@@ -30,7 +30,7 @@ const StunningGallery: React.FC<GalleryProps> = ({
 
   // Get unique categories
   const categories = useMemo(() => {
-    const cats = [...new Set(items.map(item => item.category).filter(Boolean))];
+    const cats = [...new Set(items.map(item => item.category).filter(Boolean))] as string[];
     return cats;
   }, [items]);
 

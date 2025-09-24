@@ -156,7 +156,7 @@ const SimpleGallery: React.FC<GalleryProps> = ({
           {categories.map((category) => (
             <button
               key={category}
-              onClick={() => handleCategoryChange(category)}
+              onClick={() => handleCategoryChange(category!)}
               className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 ${
                 selectedCategory === category
                   ? 'bg-blue-500 text-white shadow-lg shadow-blue-500/25'
